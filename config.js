@@ -1,7 +1,7 @@
 module.exports = {
-    FB_PAGE_TOKEN: '',
-    FB_VERIFY_TOKEN: '',
-    API_AI_CLIENT_ACCESS_TOKEN: '',
-    FB_APP_SECRET: '',
-    SERVER_URL: "",
+    FB_PAGE_TOKEN: 'EAADvm1oeFDsBALFn8Y9ZCF4LXidQMq4CJ6jWZC7wwbuZCAfRt0a0wXdva6MZAkZAN5AWyJGFAgXQqd6dQ0BHZCwzum7hl5UmQtXs3Mqemrhz7dVg32hKFmZBuXUqVvWsy3Q5OZBNy5ZCFZA56R0Wk88ysjMFkTguiZAsdxMQfQy0C7SEzn4ZCvxDxET8',
+    FB_VERIFY_TOKEN: 'bot-test-native-code',
+    API_AI_CLIENT_ACCESS_TOKEN: '2bcd3b03073140538634d5854e255f92',
+    FB_APP_SECRET: '4b365b20417b704f7bde24af151811b8',
+    SERVER_URL: "https://udemy-chatbot-test.herokuapp.com/",
 };
